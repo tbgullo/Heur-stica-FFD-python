@@ -1,2 +1,2 @@
-# Heur-stica-FFD-python
+# Heuristica-FFD-python
 Heurística FFD para o problema de cortes com sobras aproveitáveis 
